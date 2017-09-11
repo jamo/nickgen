@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/jamo/nickgen#readme",
   "dependencies": {
-    "nick-generator": "0.1.4"
+    "nick-generator": "1.0.0"
   }
 }
